@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Validation evidence</title>
+  <desc id="desc">Four evidence areas passed for the maintained delivery baseline: repository structure, checksum and Pine invariants, disclosure hygiene, and versioned release.</desc>
+  <rect width="1200" height="330" fill="#f8fafc"/>
+  <text x="60" y="58" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#0f2744">VALIDATION EVIDENCE</text>
+  <text x="60" y="89" font-family="Arial, sans-serif" font-size="15" fill="#52677d">Maintained delivery baseline · evidence-backed claims only</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="50" y="130" width="250" height="128" rx="12" fill="#edf7ed" stroke="#8fbf8f"/>
+    <text x="76" y="166" font-size="16" font-weight="700" fill="#276749">✓ STRUCTURE</text>
+    <text x="76" y="196" font-size="14" fill="#334e68">Required engineering</text>
+    <text x="76" y="220" font-size="14" fill="#334e68">and handover files</text>
+
+    <rect x="335" y="130" width="250" height="128" rx="12" fill="#edf7ed" stroke="#8fbf8f"/>
+    <text x="361" y="166" font-size="16" font-weight="700" fill="#276749">✓ INTEGRITY</text>
+    <text x="361" y="196" font-size="14" fill="#334e68">SHA-256 checksum</text>
+    <text x="361" y="220" font-size="14" fill="#334e68">+ Pine invariants</text>
+
+    <rect x="620" y="130" width="250" height="128" rx="12" fill="#edf7ed" stroke="#8fbf8f"/>
+    <text x="646" y="166" font-size="16" font-weight="700" fill="#276749">✓ SAFETY</text>
+    <text x="646" y="196" font-size="14" fill="#334e68">Secret patterns</text>
+    <text x="646" y="220" font-size="14" fill="#334e68">+ attachment hygiene</text>
+
+    <rect x="905" y="130" width="245" height="128" rx="12" fill="#edf7ed" stroke="#8fbf8f"/>
+    <text x="931" y="166" font-size="16" font-weight="700" fill="#276749">✓ RELEASE</text>
+    <text x="931" y="196" font-size="14" fill="#334e68">Accepted maintained</text>
+    <text x="931" y="220" font-size="14" fill="#334e68">baseline · v1.0.0</text>
+  </g>
+
+  <text x="60" y="302" font-family="Arial, sans-serif" font-size="13" fill="#6b7c93">CI and release evidence do not establish profitability, accuracy, latency, or runtime performance.</text>
+</svg>
